@@ -1,0 +1,22 @@
+SEXO
+RESIDENCIA
+ESCOLARIDAD
+HOSPITALIZACIÓN PREVIA
+ETS previas UNICAMENTE LOS QUE SI PRESENTAN
+ETS al diagnóstico 
+Número de parejas sexuales
+Edad de inicio de vida sexual activa BOXPLOT
+Relaciones sexuales con desconocidos
+Relaciones sexuales con personas con VIH
+Relaciones sexuales con usuarios de drogas IV
+Lugar donde conoció a su pareja sexual
+MARIGUANA, ALCOHOL COCAINA ALUCINOGENOS UNICAMENTE LOS QUE SI CONSUMIERON 
+Violencia sexual
+Grado de conocimiento de métodos de protección
+Conocimiento previo de VIH
+
+Asintomático Linfadenopatía Pérdida de peso < 10 % Pérdida de peso > 10% Hérpes zóster Diáforesis nocturna o fiebre persistente Diarrea crónica Tos crónica Infecciones de tracto respiratorio superior recurrente Ulceración bucal recurrente Tuberculosis pulmonar Enfermedades definitorias de SIDA Candidiasis oral recurrente Infección bacteriana severa 
+
+
+
+
